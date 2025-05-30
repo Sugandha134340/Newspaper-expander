@@ -2,9 +2,9 @@
 
 **Problem Statement**
 
-In today’s fast-paced world, people often do not have the time to sit and read entire newspapers, even though staying informed is crucial. This is especially important for individuals preparing for public service examinations like UPSC, TNPSC, etc., who need to stay updated with current affairs. Such aspirants typically read newspapers daily and make notes for quick revisions later. However, going through full-length articles and manually noting down key points is time-consuming.
+In today’s fast-paced world, people often do not have the time to sit and read entire newspapers, even though staying informed is crucial. This is especially true for busy individuals who want to stay updated without spending too much time, and for students preparing for public service examinations like UPSC, TNPSC, etc., who need to regularly follow current affairs. Such aspirants typically read newspapers daily and make notes for quick revisions later. However, going through full-length articles and manually noting down key points is time-consuming.
 
-To address this problem, we created a tool that helps users extract and summarize essential news content automatically from various sources. This allows them to stay informed quickly, revise effectively, and even prepare digital notes with ease.
+To address this problem, we created a tool that helps users extract and summarize essential news content automatically from various sources. This allows both busy professionals and competitive exam aspirants to stay informed quickly, revise effectively, and even prepare digital notes with ease.
 
 **Approach & Solution**
 
