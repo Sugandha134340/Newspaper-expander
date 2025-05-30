@@ -37,25 +37,19 @@ In each case, the summarized content is broken down into point-wise format for e
 
 **Installation Note**
 
-Due to file size limitations on GitHub, the Spacy language model file (en_core_web_sm-3.8.0-py3-none-any.whl) is not included in the repository.
+Due to file size limitations on GitHub, the Spacy language model file (`en_core_web_sm-3.8.0-py3-none-any.whl`) is not included in the repository.  
 Please follow the steps below to install it manually:
 
-Download the wheel file en_core_web_sm-3.8.0-py3-none-any.whl from the shared source or place it in the project root directory.
-
-Then run the following command to install it:
-
-```bash
-pip install en_core_web_sm-3.8.0-py3-none-any.whl
-
-Finally, link the model using:
-
-```bash
-python -m spacy link en_core_web_sm en_core_web_sm
+Download the wheel file `en_core_web_sm-3.8.0-py3-none-any.whl` from the shared source or place it in the project root directory.  
+`Then run the following command to install it: 
+```bash pip install en_core_web_sm-3.8.0-py3-none-any.whl` 
+Finally, link the model using: 
+```bash `python -m spacy link en_core_web_sm en_core_web_sm`
 
 **Run Instructions**
 
 1. **Clone the repository**
-   ```bash
+    ```bash
    git clone https://github.com/Sugandha134340/Newspaper-expander.git
    cd newspaper-expander
 2. **Set up a virtual environment (recommended)**
@@ -70,7 +64,8 @@ python -m spacy link en_core_web_sm en_core_web_sm
 
 4. **Install dependencies**
     ```
-    bashpip install -r requirements.txt
+    bash
+    pip install -r requirements.txt
 
 5. **Run the application**
 
