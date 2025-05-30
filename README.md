@@ -41,10 +41,12 @@ Due to file size limitations on GitHub, the Spacy language model file (`en_core_
 Please follow the steps below to install it manually:
 
 Download the wheel file `en_core_web_sm-3.8.0-py3-none-any.whl` from the shared source or place it in the project root directory.  
-`Then run the following command to install it: 
-```bash pip install en_core_web_sm-3.8.0-py3-none-any.whl` 
-Finally, link the model using: 
-```bash `python -m spacy link en_core_web_sm en_core_web_sm`
+1. **Then run the following command to install it:**
+    ```bash
+   pip install en_core_web_sm-3.8.0-py3-none-any.whl
+2. **Finally, link the model using:**
+    ```bash
+    python -m spacy link en_core_web_sm en_core_web_sm
 
 **Run Instructions**
 
