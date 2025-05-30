@@ -42,19 +42,20 @@ In each case, the summarized content is broken down into point-wise format for e
    git clone https://github.com/Sugandha134340/Newspaper-expander.git
    cd newspaper-expander
 2. **Set up a virtual environment (recommended)**
-    ```python -m venv venv
+    ```bash
+    python -m venv venv
 
 3. **Activate the virtual environment**
 
-    ```On Windows:
+    ```bash
+    On Windows:
         .\venv\Scripts\activate
-       On macOS/Linux:
-        source venv/bin/activate
 
 4. **Install dependencies**
-
-    ```pip install -r requirements.txt
+    ```
+    bashpip install -r requirements.txt
 
 5. **Run the application**
 
-    ```streamlit run app.py
+    ```bash
+    streamlit run app.py
